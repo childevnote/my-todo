@@ -1,0 +1,11 @@
+.add-todo-button {
+  position: fixed;
+  right: -5px;
+  bottom: 0;
+  z-index: 100;
+  width: 100px;
+  height: 100px;
+  cursor: pointer;
+  font-size:5rem;
+  color: #f67280;
+}
